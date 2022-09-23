@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 50vw;
+}
+* {
+}
+button {
+  margin: 0.5rem;
+  padding: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: mediumpurple;
+}
+li {
+  list-style: none;
+  border: 1px solid black;
+  margin: 0.5rem;
+  text-align: left;
+  padding: 1rem;
+}
